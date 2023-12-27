@@ -1,2 +1,15 @@
 this is first version of trash file
 abcdefghijklmm
+a
+b
+c
+d
+e
+f
+g
+this is second version of trash file
+h
+i
+j
+k
+this is third version of trash file
